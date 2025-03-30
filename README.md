@@ -1,2 +1,8 @@
-# From-Occasional-to-Steady-Habit-Formation-Insights-From-a-Comprehensive-Fitness-Study
-The code for "From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study" (2025).
+
+# <p align="center">From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study</p>
+
+### Abstract
+
+Exercising regularly is widely recognized as a cornerstone of health, yet the challenge of sustaining consistent exercise habits persists. Understanding the factors that influence the formation of these habits is crucial for developing effective interventions. This study utilizes data from Mars Athletic Club, T\"urkiye's largest sports chain, to investigate the dynamics of gym attendance and habit formation. The general problem addressed by this study is identifying the critical periods and factors that contribute to the successful establishment of consistent exercise routines among gym-goers. Here we show that there are specific periods during which gym attendance is most crucial for habit formation. By developing a survival metric based on gym attendance patterns, we pinpoint these critical periods and segment members into distinct clusters based on their visit patterns. Our analysis reveals significant differences in how various subgroups respond to interventions, such as group classes, personal trainer sessions, and visiting different clubs. Using causal inference analysis, we demonstrate that personalized guidance and social dynamics are key drivers of sustained long-term engagement. By systematically examining these variables and considering the specific characteristics of different clusters, our research demonstrates the importance of a tailored, multi-dimensional approach to promoting exercise habits, which integrates social dynamics, personalized guidance, and strategic interventions to sustain long-term engagement.
+
+
